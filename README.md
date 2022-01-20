@@ -6,6 +6,6 @@
 
 <p align=center>  
   <strong>
-      <img src='https://komarev.com/ghpvc/?username=rivo2302&color=008080'>
+      <img src='https://komarev.com/ghpvc/?username=ntsoa2112&color=008080'>
   </strong> 
 <p>
